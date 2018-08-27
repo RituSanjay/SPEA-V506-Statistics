@@ -1,0 +1,22 @@
+-> A variable is a charecteristic that can vary in value among subjects in a sample or a population
+
+-> Measurement scale is the range of values taken on by a variable
+
+-> Variables can be of two types :
+   1) Quantitative : measurement scale is numeric
+   2) Catagorical (qualitative) : measurement scale is a set of catagories (can be ordered or unordered)
+
+-> Nominal, ordinal and interval scales of measurement :
+   1) quantitative variables are measured on an interval scale ( there is an equal distance between each scale)
+   2) qualitative variables are ordinal or nominal
+      i) nominal - no implicit ranking eg. ice cream flavors
+      ii) ordinal - implicit ranking eg. social class
+      
+-> Discrete and continuous variables :
+   1) Discrete : may take values that form a set of seperate numbers, such as 0,1,2,3....
+   2) Continuous : may take values among the infinite continuum of of possible real number values
+   
+-> The statistical method used to analyze data depends on whether the variable is quantitative vs qualitative, 
+   or discrete vs continuous
+   
+->
