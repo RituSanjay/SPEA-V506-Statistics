@@ -20,4 +20,54 @@ and to data-sampled-from-population (called sample-data distribution).
 
 -> When the distribution is skewed, the median gives a better indication.
 
-->
+-> To find the median :
+ 1) when the sample size is odd, the middle value i sthe median when arranged in asc or desc 
+ 2) when the sample size id even, there are two middle values and the median will be the midpoint 
+between these two values
+
+-> When the distribution is highly skewed the median descibes abetter value than the mean.
+
+-> The median is appropriate for quantitative and ordinal-scale qualitative variables, not nomial-scale variables
+
+-> The mode is the value that occurs most frequently an dis used for describing highly discrete data.
+Mode can be used for both qualitative and quantitative data.
+
+-> The range is the difference between the smallest and largest value in a data.
+
+-> The standard deviation is based on deviations of data from the measure of center like the mean. The deviation 
+is spositive when the observation falls above the mean, negative when it falls below the mean.
+
+-> The sum of deviations around the mean eual zero. Because of this, the most popular measure of variability 
+is the absolute values of the deviations or the square of the deviations.
+
+-> Emperical rule for interpreting standard deviation:
+ 1) about 68% of observations fall between (mean+sd) and (mean-sd)
+ 2) About 95% of the observation sfall between (mean +/- 2sd)
+ 3) All or nearly all observations fall bewteen (mean +/- 3sd)
+   // applies only to bell shaped distributions
+
+-> Standard deviation is heavily influenced by outliers especially in small datasets.
+
+-> If the smallest or largest value in the dataset is smaller than the standard deviation, 
+it shows that the distribution is severly skewed.
+
+-> The pth percentile is the point such that p% ob the observations fall below or at that point.
+25th percentile is called the lower quartile and 75th percentile is the upper quartile.
+
+-> Difference between the median and the upper quartile and the distance between the median
+and the lower quartile can indicate if the distribution is skewed if the difference between 
+both the differences is large.
+
+-> For bell shaped distributions, the distance from mean to either quartile is approximtely 2/3 of a standard deviation.
+
+-> The number of standard deviations that an observation falls from the mean is called z-score.
+An analysis of association between two variables is called bivariate analysis. One variable is called response or outcome 
+or dependent variable while the other is called exploratory or independent variable.
+
+->The sample means and SD are variables because they depend on the sample selected from th epopulation; the
+population mean and SD are constants.
+
+
+
+
+
