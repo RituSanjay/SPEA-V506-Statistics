@@ -1,0 +1,46 @@
+-> With a random sample or a randomized experiment, th eprobability an observation has a particular outcomes is
+th eproportion of times that outcome would occur in a very long sequence of observations
+
+-> Probabilities can be experessed as proportions (0 - 1) or percentages
+
+-> Basic probability rules:
+ 1) P(not A)=1-P(A)
+ 2) P(A or B)= P(A) + P(B)// A and B are distinct possible outcomes
+ 3) P(A and B) = P(A) * P(B given A)
+ 4) P(A and B) = P(A) * P(B)  // A and B are independent
+
+-> A random variable refers to a variable for which the value from observation to 
+observation can vary according to random variation summarized by probabilities
+
+-> A probability distribution lists possible variable outcomes and their associtaed probabilites
+
+-> For a discrete variable , the prob dist assigns a possible value between 0 and 1
+
+-> For a continuous variable, the prob dist assigns probabilities to intervals of numbers
+
+-> The mean of a discrete probability distribution is mu=sum( y*P(y) )
+
+-> The normal distribution describes how many continuous values are distributed.
+ It is symmetric, bell-shaped, and charecterized by its mean standard distribution.
+
+-> For each z (std dev away from mean) we can find the probability from the right-tail 
+probability table.
+
+-> Sample distribution and sampling distribution are both different concepts.
+
+->  A sampling distribution of a statistic is the probability distribution that specifies
+probabilities for the possible values the statistica can take.
+
+-> Each sample statistic such as meadian, mean, proportion etc has a sampling distribution
+
+-> Central Limit Theorem : The random sampling with a  large size of N, the sampling distribution
+of the sample mean  y-bar will center about a given population mean regardless of wherther the 
+population itself is normally distributed or not
+
+
+
+
+
+
+
+
