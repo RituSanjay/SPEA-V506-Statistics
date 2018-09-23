@@ -1,0 +1,19 @@
+-> Point estimate : a singke estimate of a population parameter
+
+-> Interval estimate : range of numbers around the point estimate, within which
+the parater is believed to fall (gauges accuracy of point estimate)
+
+-> ^ is used to denote parameter estimate
+
+-> confidance inreval describe point estimate accuracy
+
+-> If the sampling distribution is approximately normal, by the
+ central limit theorwem, as n increases, the sampling distribution
+approximates the normal distribution), we can apply the
+emperical rule.
+
+-> Confidence coefficient : the probability that the confidence
+interval contains the parameter
+
+-> The error probability is denoted by 'alpha'
+
