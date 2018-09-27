@@ -1,1 +1,46 @@
+-> If a population parameter has a certain value, thn the corresponding sample statistic should fall 
+within a certain range.
 
+-> Elements if a significance test :
+ 1) Assumptions
+ 2) Hypotheses
+ 3) Test-statistics
+ 4) p-values
+ 5) conclusions
+
+-> Assumptions involve:
+ 1) the type of data - quantitative vs qualitative
+ 2) the form pf population distribution
+ 3) sampling method
+ 4) sample size
+
+-> Hypothese:
+ 1) The null hypothesis(H0) is ususally a statement that 
+the parameter has a value corresponding to no effect.
+We want to test if H)is true.
+ 2) The alternative hypothesis(Ha) is usually a statement
+that the parameter has some alternative set of values to
+what the null hypothesis specifies.
+ 3) In a significance test we analyze whetether 
+we can reject the null hypothesis and conclude that
+the alternative hypothesis is true.
+
+-> The test statistic is calculated from teh samplr
+data to test the null hypohesis. This statistic ususally involves a
+point estimate of the paraeter to which the hypothesis refer.
+
+-> The p-value is the probability , when H0 is true, of a test 
+statistic being at least as contradictory to H0 as the value actually
+observed. The smaller the p-value, the more stringly the data contadict H0
+
+-> to reject H0 we need p-value<0.05
+
+-> Type-1 error : H0 is true but we reject it
+   Type-2 error : H0 is false but we do not reject it
+
+-> Rejecting the nullhypothesis at a given alpha
+is equivalent to the confidance interval for the mean mu 
+with the same error probability not containing the
+null hypothesis value
+
+  
